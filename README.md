@@ -75,7 +75,7 @@ The Strahler number of a tree is the number of its root node.
 
 
 
-![strahler-stream orde-diagram.png](./img/strahler-stream orde-diagram.png)
+![strahler-stream orde-diagram.png](./img/strahler-stream-order-diagram.png)
 
 
 
