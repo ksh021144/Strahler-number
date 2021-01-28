@@ -47,7 +47,7 @@ The Strahler number of a tree is the number of its root node.
 
 ## Directed graph (include vectex, edge)
 
-**[input.txt]**
+**[sample input.txt]**
 
 ```
 19 18 // vertex count, edge count
@@ -71,7 +71,11 @@ The Strahler number of a tree is the number of its root node.
 11 19
 ```
 
+**[sample output]**
 
+```
+Strahler number : 4
+```
 
 
 
